@@ -51,7 +51,7 @@
         <mxCell id="NIwCvC52dt4J4diQWN7y-26" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;LCD显示&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="175.25" y="587" width="240.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NIwCvC52dt4J4diQWN7y-30" value="判断是否进入报警范围" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NIwCvC52dt4J4diQWN7y-30" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;判断是否进入&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;报警范围&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="178" y="313" width="227" height="80" as="geometry" />
         </mxCell>
       </root>
