@@ -10,7 +10,7 @@
         <mxCell id="NIwCvC52dt4J4diQWN7y-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;系统初始化&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;（GPIO,定时器）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="258" width="236" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="NIwCvC52dt4J4diQWN7y-3" value="配置定时器生成PWM" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="NIwCvC52dt4J4diQWN7y-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;配置定时器生成PWM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="364" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
