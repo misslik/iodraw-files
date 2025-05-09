@@ -16,6 +16,9 @@
         <mxCell id="NIwCvC52dt4J4diQWN7y-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;计算目标角度对应PWM占空比&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="522" width="240.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NIwCvC52dt4J4diQWN7y-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;计算目标角度对应PWM占空比&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="218.5" y="532" width="240.5" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
