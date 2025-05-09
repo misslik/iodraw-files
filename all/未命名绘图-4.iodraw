@@ -19,6 +19,9 @@
         <mxCell id="NIwCvC52dt4J4diQWN7y-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;启动PWM输出&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="206.25" y="658" width="240.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NIwCvC52dt4J4diQWN7y-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;主循环控制角度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="781" width="240.5" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
