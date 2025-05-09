@@ -7,7 +7,7 @@
         <mxCell id="NIwCvC52dt4J4diQWN7y-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="159" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NIwCvC52dt4J4diQWN7y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NIwCvC52dt4J4diQWN7y-2" value="系统初始化&lt;div&gt;（GPIO,定时器）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="286" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
