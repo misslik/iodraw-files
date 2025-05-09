@@ -17,7 +17,7 @@
           <mxGeometry x="175.25" y="317" width="240.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NIwCvC52dt4J4diQWN7y-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;更新下个状态&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="201" y="846" width="240.5" height="60" as="geometry" />
+          <mxGeometry x="183.5" y="826" width="240.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NIwCvC52dt4J4diQWN7y-26" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;报警流程处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="179.75" y="675" width="240.5" height="60" as="geometry" />
@@ -34,6 +34,9 @@
           <mxGeometry x="0.0299" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NIwCvC52dt4J4diQWN7y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NIwCvC52dt4J4diQWN7y-30" target="NIwCvC52dt4J4diQWN7y-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NIwCvC52dt4J4diQWN7y-30" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;判断是否进入&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;报警范围&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="176" y="445" width="248" height="131" as="geometry" />
